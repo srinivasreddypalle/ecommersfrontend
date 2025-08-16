@@ -6,7 +6,7 @@ const AboutUs = () => {
   return (
     <div className="about-container">
       <h2>About Our Electronic Store(vijayawada)</h2>
-      <h3>srinivas reddy</h3>
+      <h3>srinivas reddy palle</h3>
       <p>
         Welcome to our E-Commerce platform, your one-stop shop for the latest and greatest in electronics!
         We specialize in high-quality products, including computers, mobiles, laptops, and accessories.
